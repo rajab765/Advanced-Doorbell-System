@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{42A1A890-4F02-481A-AED5-872395D05F63}"
+	ProjectSection(SolutionItems) = preProject
+		ArduinoConstants.cs = ArduinoConstants.cs
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SystemForm", "SystemForm\SystemForm.csproj", "{B2333DDB-2464-411D-9C71-173AD81B3BCC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VisualFeed", "VisualFeed\VisualFeed.csproj", "{3793021D-B167-4015-AC7F-1CF2DCC45DE2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WearableUI", "WearableUI\WearableUI.csproj", "{C6B49F31-E9A3-489B-80F9-7153AE36FC37}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B2333DDB-2464-411D-9C71-173AD81B3BCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2333DDB-2464-411D-9C71-173AD81B3BCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2333DDB-2464-411D-9C71-173AD81B3BCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2333DDB-2464-411D-9C71-173AD81B3BCC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3793021D-B167-4015-AC7F-1CF2DCC45DE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3793021D-B167-4015-AC7F-1CF2DCC45DE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3793021D-B167-4015-AC7F-1CF2DCC45DE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3793021D-B167-4015-AC7F-1CF2DCC45DE2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6B49F31-E9A3-489B-80F9-7153AE36FC37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6B49F31-E9A3-489B-80F9-7153AE36FC37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6B49F31-E9A3-489B-80F9-7153AE36FC37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6B49F31-E9A3-489B-80F9-7153AE36FC37}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A91CFEC2-549B-473F-8580-F8DCC12FAAED}
+	EndGlobalSection
+EndGlobal
