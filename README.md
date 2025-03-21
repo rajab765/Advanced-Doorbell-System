@@ -7,7 +7,7 @@ Proteous 8, Virtual Serial Port Driver, Visual Studio, Arduino IDE
 # How to Run
 1. Clone the Github repository.
 
-![image](https://user-images.githubusercontent.com/8882310/230357343-6c0e6b12-b855-49d3-9e58-52b4c2d5fca7.png)
+![image](https://github.com/user-attachments/assets/9c28d80c-a681-45f4-8d43-9771cebb6262)
 
 2. Open the Solution in Visual Studio.
 3. Right Click on the Solution > Select ‘Set Startup Projects’
